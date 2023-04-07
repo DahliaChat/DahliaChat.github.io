@@ -21,7 +21,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 15vh;
+  height: 13vh;
 }
 
 .navBar-element-a {
@@ -60,7 +60,7 @@ li a:hover:not(.active) {
 }
 
 .phone{
-  height: 600px;
+  height: 500px;
 }
 
 #topPhone {
@@ -71,7 +71,7 @@ li a:hover:not(.active) {
 
 #spacer {
   width: 100%;
-  height: 20vh;
+  height: 18vh;
 }
 
 #ourGoal {
@@ -131,7 +131,7 @@ td {
   font-family: 'Inter', sans-serif;
   color: white;
   font-size: 25px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 .centered-phone {
@@ -199,7 +199,7 @@ td {
     position: absolute;
     overflow: hidden;
     width: 100%;
-    height: calc(20vh + 600px + 25px + 4px  + 600px + 150px + 600px + 1px + 140px + 5px) !important;
+    height: calc(18vh + 600px + 25px + 4px  + 500px + 150px + 500px + 1px + 140px + 5px) !important;
     top: 0;
     left: 0;
     background: linear-gradient(to right, #a8d5ff, #94afff);
@@ -252,6 +252,10 @@ td {
     top: 89%;
     transform: translateX(-50%) translateY(-50%);
 }
+
+
+
+
 
 
 
